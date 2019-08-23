@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Rooms() {
-	return <div>hello from the room page!</div>;
+	return <div>hello from the rooms page!</div>;
 }
